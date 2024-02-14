@@ -1,5 +1,6 @@
 <html>
-<head>API Twitch</head>
+<head>
+  <title>Api Twitch</title></head>
 <body>
 <?php
 echo "Esto es una prueba";
