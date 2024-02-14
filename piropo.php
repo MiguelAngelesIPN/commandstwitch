@@ -1,4 +1,4 @@
 <?php
-$piropo=file_get_contents("piropos.php");
-echo $piropo;
+include "piropos.php"
+echo $random;
 ?>
