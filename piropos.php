@@ -104,7 +104,7 @@ $respuestas = array(
 "Quien fuera sartén para que estrellaras esos huevos.",
 "Ojalá fueras Van Helsing y yo una vampira para que me atravesaras con tu estaca.",
 "2×2=4×2=8 y para tu camote mi biscocho.",
-"Ay mi vida estás pacheco… pa’ che cositas en la cama.",
+"Ay mi vida estás pacheco… pa che cositas en la cama.",
 "Eres como el chocolate, irresistible y adictivo. No puedo resistirme a tus encantos",
 "Quisiera ser voladora de Papantla para colgarme de ese palo hasta que me dejes en el piso.",
 "Yo soy toda una escultura y tú un escultor, ¿qué te parece si me pones en Pino Suarez?",
@@ -127,7 +127,7 @@ $respuestas = array(
 "Eres como el sol en un día frío, me calientas y me haces sentir viva.",
 "Te quiero… pero luego te digo en que posición.",
 "Quién fuera el agua de tu inodoro para reflejar lo que más añoro.",
-"Chiquito precioso, échamelos en la oreja pa’que me digan mamá.",
+"Chiquito precioso, échamelos en la oreja pa que me digan mamá.",
 "Tú rostro ofende, pero ese paquete te defiende.",
 "Quisiera ser elote para que me ensartes tu palote.",
 "Entre broma y broma se asoma la cabezona.",
@@ -150,7 +150,7 @@ $respuestas = array(
 "Yo te la lambo hasta que se te aclare. ",
 "Soñé que era chofer y te manejaba a mi antojo. ",
 "Si así como caminas, cocinas, me comería todo ese birote."
-)
+);
 $random=array_rand($respuestas);
 echo $respuestas[$random];
 ?>
