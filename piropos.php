@@ -152,5 +152,4 @@ $respuestas = array(
 "Si así como caminas, cocinas, me comería todo ese birote."
 );
 $random=array_rand($respuestas);
-echo $respuestas[$random];
 ?>
